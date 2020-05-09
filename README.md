@@ -1,23 +1,2 @@
-## Willkommen zu PlayCraft.NET
-
-Dieser Server ist mit YaZZeR verbunden damit ihr auch euch registrieren könnt
-
-#### Updates & Neuigkeiten
-Nichts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###### Seite und Bilder von Uranicold
+## Seite ist in Wartungsarbeiten
+<iframe src="https://discordapp.com/widget?id=707509870781530123&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
